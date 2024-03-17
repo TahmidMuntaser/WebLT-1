@@ -32,7 +32,7 @@ body{
     text-transform: uppercase;
     font-family: sans-serif;
     font-size: 30px;
-    padding-top: 85px;
+    padding-top: 65px;
     letter-spacing: .37em;
     color: rgb(87, 58, 227);
     font-weight: 700;
@@ -41,7 +41,7 @@ body{
 
 .fields{
     width: 100%;
-    padding: 30px 10px 10px 10px;
+    padding: 45px 10px 10px 10px;
 }
 
 .fields input{
