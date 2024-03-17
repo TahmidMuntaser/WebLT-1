@@ -33,4 +33,32 @@ header{
 
 .nav-links li a{
     margin: 0px 20px;
+    font-size: 18px;
+}
+
+.nav-links li a:hover{
+
+    color: rgb(87, 58, 227);
+    transition: all .3s ease 0s;
+
+}
+
+
+button{
+    background-color: rgb(87, 58, 227);
+    color: white;
+    border: none;
+    padding: 20px 30px;
+    margin-right: 20px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+button:hover{
+    background: rgb(47, 62, 147);
+}
+
+button:active{
+    background: rgb(39, 66, 221);
 }
